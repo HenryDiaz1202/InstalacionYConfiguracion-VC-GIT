@@ -51,8 +51,9 @@ Esta es la configuración que se hace en el bash.
 ## Creación de cuenta en GitHub
 Podemos acceder mediante el siguiente enlace.  
 [Link para crear cuenta GitHub](https://github.com/join)  
-![Texto alternativo](/img/join.png)
+![Texto alternativo](/img/join.png)  
 Una vez en la página para crear cuenta nos pide nombre de usuario al principio, luego un correo y por último una contraseña para luego acceder a github debemos verificar el correo.
 ### Crear un proyecto vacío  
 
 https://github.com/HenryDiaz1202/Repo_Vacio
+![Texto alternativo](/img/vacio.png)
